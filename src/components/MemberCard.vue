@@ -1,9 +1,9 @@
 <template>
-  <div class="project-card" @click="openLink">
-    <img v-if="props.icon" :src="props.icon" :alt="props.title + '的图标'" draggable="false"/>
-    <div class="project-info">
-      <h3>{{ props.title }}</h3>
-      <p>{{ props.description }}</p>
+  <div class="member-card" @click="openLink">
+    <img v-if="props.avatar" :src="props.avatar" :alt="props.name + '的头像'" draggable="false"/>
+    <div class="member-info">
+      <h3>{{ props.name }}</h3>
+      <p>{{ props.bio }}</p>
     </div>
   </div>
 </template>
@@ -12,9 +12,9 @@
 import { defineProps } from 'vue';
 
 const props = defineProps<{
-  icon: string;
-  title: string;
-  description: string;
+  avatar: string;
+  name: string;
+  bio: string;
   link: string;
 }>();
 
@@ -25,7 +25,7 @@ function openLink() {
 </script>
 
 <style scoped>
-.project-card {
+.member-card {
   display: flex;
   flex-direction: flex-end;
   justify-content: flex-start;
@@ -43,13 +43,13 @@ function openLink() {
 
 }
 
-.project-card img {
+.member-card img {
   width: 5em;
   height: 5em;
   border-radius: 1em;
 }
 
-.project-card:hover {
+.member-card:hover {
   box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
   backdrop-filter: blur(2px);
   border: 1px solid rgba(255, 255, 255, 0.1);

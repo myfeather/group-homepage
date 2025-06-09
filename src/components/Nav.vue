@@ -5,11 +5,11 @@ import { RouterLink} from 'vue-router'
 const navItems = ref([
   { name: '主页', path: '/' },
   { name: '项目', path: '/project' },
+  { name: '成员', path: '/member' },
 
 ]);
 
   // { name: '关于', path: '/about' },
-  // { name: '成员', path: '/member' },
 </script>
 
 <template>

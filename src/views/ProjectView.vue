@@ -1,6 +1,6 @@
 <template>
   <div class="project-view">
-    <h1>项目列表</h1>
+    <h1>项目</h1>
     <ProjectList />
   </div>
 </template>

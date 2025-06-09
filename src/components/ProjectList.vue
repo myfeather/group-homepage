@@ -11,15 +11,21 @@ import { ref } from 'vue';
 const projectList = ref([
   {
     icon : 'https://afeather.cn/favicon.ico',
-    title: '一片羽',
+    title: 'A Feather | 一片羽',
     description: '让零散的心事落地成光。',
     link: 'https://afeather.cn',
   },
   {
-    icon : 'https://lexicalis.xyz/static/favicon.png',
+    icon : 'https://group.afeather.cn/icon/Lexicalis.svg',
     title: 'Lexicalis | 辞点',
     description: '与@PromptCraft共同开发。一个基于BERT与DeepSeek的词典。',
     link: 'https://lexicalis.xyz',
+  },
+  {
+    icon : 'https://group.afeather.cn/icon/Gloweve.svg',
+    title: 'Gloweve | 辉夜',
+    description: 'A Feather 所使用的设计语言的配套主题Api。',
+    link: 'https://gloweve.com',
   },
 ]);
 

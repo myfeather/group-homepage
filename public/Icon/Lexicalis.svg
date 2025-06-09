@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1109.28 -1212.86 1212.86 1109.28 -85.7729 1234.45)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="0" x2="1" y1="0" y2="0">
+<stop offset="0" stop-color="#7d97cc"/>
+<stop offset="1" stop-color="#ebc3f6"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="947.24" id="Filter" width="947.24" x="38.3799" y="38.3799">
+<feDropShadow dx="0" dy="0" flood-color="#ffffff" flood-opacity="1" in="SourceGraphic" result="Shadow" stdDeviation="27.3622"/>
+</filter>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="1024" width="1024" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="图层-2">
+<path d="M-1.13687e-13 5.68434e-14L1024 5.68434e-14L1024 1024L-1.13687e-13 1024L-1.13687e-13 5.68434e-14Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M312 112C201.543 112 112 201.543 112 312C112 422.457 201.543 512 312 512L312 312L512 312C512 201.543 422.457 112 312 112ZM512 312L712 312L712 512C822.457 512 912 422.457 912 312C912 201.543 822.457 112 712 112C601.543 112 512 201.543 512 312ZM512 312C512 422.457 422.457 512 312 512C422.457 512 512 601.543 512 712C512 601.543 601.543 512 712 512C601.543 512 512 422.457 512 312ZM712 512L712 712L512 712C512 822.457 601.543 912 712 912C822.457 912 912 822.457 912 712C912 601.543 822.457 512 712 512ZM512 712L312 712L312 512C201.543 512 112 601.543 112 712C112 822.457 201.543 912 312 912C422.457 912 512 822.457 512 712Z" fill="#f1f4ff" fill-rule="nonzero" filter="url(#Filter)" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="0.298159" stroke-width="10.4289"/>
+</g>
+</svg>

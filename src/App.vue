@@ -31,6 +31,7 @@ main {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  overflow: hidden;
 }
 
 header,
@@ -53,6 +54,7 @@ footer {
   justify-content: flex-start;
   align-items: flex-start;
   padding: 2em 2em;
+  overflow-x: hidden;
 }
 
 .footer {
