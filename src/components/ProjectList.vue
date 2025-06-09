@@ -10,7 +10,7 @@ import { ref } from 'vue';
 
 const projectList = ref([
   {
-    icon : 'https://afeather.cn/favicon.ico',
+    icon : '/AFeather.svg',
     title: 'A Feather | 一片羽',
     description: '让零散的心事落地成光。',
     link: 'https://afeather.cn',

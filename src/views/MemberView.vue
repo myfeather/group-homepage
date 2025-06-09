@@ -18,6 +18,5 @@ import MemberList from '@/components/MemberList.vue';
   width: 100%;
   height: 100%;
   gap: 1em;
-  padding-top: 10em;
 }
 </style>

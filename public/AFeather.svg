@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(977.96 -1118.26 1118.26 977.96 34.8279 1134.34)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="0" x2="1" y1="0" y2="0">
+<stop offset="0" stop-color="#7d97cc"/>
+<stop offset="1" stop-color="#ebc3f6"/>
+</linearGradient>
+<path d="M395.84 516.603C404.788 517.704 438.925 536.851 497.744 542.17C547.994 546.713 573.518 539.62 619.492 532.931C612.218 539.865 598.046 543.935 586.989 547.622C575.21 551.551 562.179 555.001 549.277 557.779C522.87 563.468 494.882 567.216 466.387 568.051C408.891 569.738 354.727 559.746 306.19 541.725C256.249 523.182 223.241 499.793 189.884 471.332C169.045 453.552 141.554 420.836 127.959 394.503C123.45 385.768 117.102 370.792 112 363.308C113.499 414.118 154.383 490.63 188.772 528.451L230.183 569.774C269.748 606.03 380.426 666.714 457.118 665.948C443.161 651.737 426.906 637.567 420.611 613.18C439.237 620.916 446.007 629.643 481.003 641.741C552.58 666.483 646.71 661.367 705.506 626.147C679.773 615.711 646.766 614.284 632.119 595.085C723.634 596.59 774.288 575.441 827.841 532.307C857.264 508.612 913.3 421.813 911.977 358.061C820.99 356.999 725.299 408.088 655.716 440.301C601.586 465.359 532.542 501.346 472.111 512.855C440.867 518.806 424.783 515.157 395.84 516.604L395.84 516.603Z" id="Fill"/>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="476.175" id="Filter" width="968.265" x="27.8845" y="273.929">
+<feDropShadow dx="0.0170003" dy="0.0170003" flood-color="#ffffff" flood-opacity="1" in="SourceGraphic" result="Shadow" stdDeviation="31.8182"/>
+</filter>
+</defs>
+<g id="图层-1">
+<path d="M0 0L1024 0L1024 1024L0 1024L0 0Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none"/>
+<g filter="url(#Filter)">
+<use fill="#ffffff" fill-rule="nonzero" stroke="none" xlink:href="#Fill"/>
+<mask height="317.084" id="StrokeMask" maskUnits="userSpaceOnUse" width="809.174" x="107.413" y="353.458">
+<rect fill="#ffffff" height="317.084" stroke="none" width="809.174" x="107.413" y="353.458"/>
+<use fill="#000000" fill-rule="evenodd" stroke="none" xlink:href="#Fill"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask)" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="0.3" stroke-width="9.17403" xlink:href="#Fill"/>
+</g>
+</g>
+</svg>
