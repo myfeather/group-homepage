@@ -1,8 +1,8 @@
 <template>
   <div class="footer">
-      <p>© 2023-{{props.nowYear}} Feather Dev all rights reserved.</p>
+      <p>© 2023-{{props.nowYear}} FeatherDev 保留所有权利</p>
 
-      <p>背景由 @{{props.bgProvider}} 提供</p>
+      <p>背景图片由@{{props.bgProvider}}提供</p>
   </div>
 </template>
 
